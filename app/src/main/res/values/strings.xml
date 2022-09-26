@@ -1,0 +1,12 @@
+<resources>
+	<string name="app_name">ShiftLab2022</string>
+	<string name="register">Регистрация</string>
+	<string name="name">Имя</string>
+	<string name="first_name">Фамилия</string>
+	<string name="password">Пароль</string>
+	<string name="date">Дата рождения</string>
+	<string name="re_type_password">Повторение пароля</string>
+	<string name="welcome">Приветствие</string>
+
+
+</resources>
